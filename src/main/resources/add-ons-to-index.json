@@ -6717,6 +6717,32 @@
         "artifactId": "datafilter"
       }
     },
+    {
+      "uid": "org.openmrs.module.sms",
+      "type": "OMOD",
+      "name": "SMS",
+      "maintainers": [
+        {
+          "name": "Connect for Life",
+          "href": "https://www.connect-for-life.org"
+        },
+        {
+          "name": "SolDevelo",
+          "href": "https://soldevelo.com/"
+        }
+      ],
+      "links": [
+        {
+          "rel": "documentation",
+          "href": "https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Admin-SMS",
+          "title": "Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/johnsonandjohnson/openmrs-module-sms"
+        }
+      ]
+    },
   ],
   "lists": [
     {

@@ -6743,6 +6743,32 @@
         }
       ]
     },
+    {
+      "uid": "org.openmrs.module.messages",
+      "type": "OMOD",
+      "name": "Messages",
+      "maintainers": [
+        {
+          "name": "Connect for Life",
+          "href": "https://www.connect-for-life.org"
+        },
+        {
+          "name": "SolDevelo",
+          "href": "https://soldevelo.com/"
+        }
+      ],
+      "links": [
+        {
+          "rel": "documentation",
+          "href": "https://github.com/johnsonandjohnson/openmrs-distro-cfl/wiki/Admin-Messages",
+          "title": "Wiki"
+        },
+        {
+          "rel": "source",
+          "href": "https://github.com/johnsonandjohnson/openmrs-module-messages"
+        }
+      ]
+    },
   ],
   "lists": [
     {
